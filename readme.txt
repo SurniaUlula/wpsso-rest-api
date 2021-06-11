@@ -27,7 +27,7 @@ Includes a new `head` element in the WordPress REST API query result to provide 
 
 * The `parts` array offers HTML meta tag attributes (aka "the parts") as arrays, making it easier to find / use specific meta tag values.
 
-There is no add-on settings page for this plugin &mdash; simply *install* and *activate* the plugin.
+There is no add-on settings page for this plugin - simply *install* and *activate* the plugin.
 
 <h3>WPSSO Core Plugin Required</h3>
 
