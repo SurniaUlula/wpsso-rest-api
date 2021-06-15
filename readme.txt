@@ -29,9 +29,9 @@ Includes a new `head` element in the WordPress REST API query result to provide 
 
 There is no add-on settings page for this plugin - simply *install* and *activate* the plugin.
 
-<h3>WPSSO Core Plugin Required</h3>
+<h3>WPSSO Core Required</h3>
 
-WPSSO REST API (aka WPSSO REST) is an add-on for the [WPSSO Core plugin](https://wordpress.org/plugins/wpsso/). WPSSO Core and its add-ons make sure your content looks best on social sites and in search results, no matter how webpages are shared, re-shared, messaged, posted, embedded, or crawled.
+WPSSO REST API (WPSSO REST) is an add-on for the [WPSSO Core plugin](https://wordpress.org/plugins/wpsso/).
 
 == Installation ==
 
