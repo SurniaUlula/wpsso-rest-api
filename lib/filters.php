@@ -117,8 +117,7 @@ if ( ! class_exists( 'WpssoRestFilters' ) ) {
 
 				case 'post':
 
-					$mod = $this->p->post->get_mod( $this->obj_array[ 'id' ] );
-
+					$mod        = $this->p->post->get_mod( $this->obj_array[ 'id' ] );
 					$head_array = $this->p->head->get_head_array( $use_post = false, $mod );
 
 					break;
@@ -126,15 +125,12 @@ if ( ! class_exists( 'WpssoRestFilters' ) ) {
 				case 'term':
 
 					add_filter( 'sucom_is_term_page', '__return_true', 10 );
-
 					add_filter( 'sucom_get_term_object', array( $this, 'filter_get_term_object' ), 10 );
 
-					$mod = $this->p->term->get_mod( $this->obj_array[ 'id' ], $this->obj_array[ 'taxonomy' ] );
-
+					$mod        = $this->p->term->get_mod( $this->obj_array[ 'id' ], $this->obj_array[ 'taxonomy' ] );
 					$head_array = $this->p->head->get_head_array( $use_post = false, $mod );
 
 					remove_filter( 'sucom_is_term_page', '__return_true', 10 );
-
 					remove_filter( 'sucom_get_term_object', array( $this, 'filter_get_term_object' ), 10 );
 
 					break;
@@ -142,15 +138,12 @@ if ( ! class_exists( 'WpssoRestFilters' ) ) {
 				case 'user':
 
 					add_filter( 'sucom_is_user_page', '__return_true', 10 );
-
 					add_filter( 'sucom_get_user_object', array( $this, 'filter_get_user_object' ), 10 );
 
-					$mod = $this->p->user->get_mod( $this->obj_array[ 'id' ] );
-
+					$mod        = $this->p->user->get_mod( $this->obj_array[ 'id' ] );
 					$head_array = $this->p->head->get_head_array( $use_post = false, $mod );
 
 					remove_filter( 'sucom_is_user_page', '__return_true', 10 );
-
 					remove_filter( 'sucom_get_user_object', array( $this, 'filter_get_user_object' ), 10 );
 
 					break;
