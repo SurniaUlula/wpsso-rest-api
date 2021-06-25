@@ -32,8 +32,8 @@ msgstr ""
 #: gettext/gettext-lib-config.php:7
 msgctxt "plugin description"
 msgid ""
-"Enhances the WordPress REST API post, term and user queries with an array of "
-"social meta tags, SEO HTML tags and Schema JSON-LD markup."
+"Enhances the WordPress REST API post, term, and user queries with an array "
+"of meta tags and Schema JSON-LD markup."
 msgstr ""
 
 #. Plugin Name of the plugin/theme
@@ -46,8 +46,8 @@ msgstr ""
 
 #. Description of the plugin/theme
 msgid ""
-"Enhances the WordPress REST API post, term and user queries with an array of "
-"social meta tags, SEO HTML tags and Schema JSON-LD markup."
+"Enhances the WordPress REST API post, term, and user queries with an array "
+"of meta tags and Schema JSON-LD markup."
 msgstr ""
 
 #. Author of the plugin/theme
