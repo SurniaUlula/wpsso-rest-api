@@ -10,7 +10,7 @@
  * Author URI: https://wpsso.com/
  * License: GPLv3
  * License URI: https://www.gnu.org/licenses/gpl.txt
- * Description: Enhances the WordPress REST API post, term, and user queries with an array of meta tags and Schema JSON-LD markup.
+ * Description: Enhances the WordPress REST API post, term, and user query results with an array of meta tags and Schema JSON-LD markup.
  * Requires PHP: 7.0
  * Requires At Least: 4.7
  * Tested Up To: 5.7.2
