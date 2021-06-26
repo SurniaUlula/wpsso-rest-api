@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WPSSO REST API 2.8.0\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wpsso-rest-api\n"
-"POT-Creation-Date: 2020-12-08 06:24-0800\n"
-"PO-Revision-Date: 2021-06-11 11:49-0700\n"
+"POT-Creation-Date: 2021-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2021-06-26 07:34-0700\n"
 "Last-Translator: JS Morisset <jsm@surniaulula.com>\n"
 "Language-Team: \n"
 "Language: fr_FR\n"
@@ -29,8 +29,8 @@ msgstr "WPSSO API REST"
 
 #: gettext/gettext-lib-config.php:7
 msgctxt "plugin description"
-msgid "Enhances the WordPress REST API post, term and user queries with an array of social meta tags, SEO HTML tags and Schema JSON-LD markup."
-msgstr "Améliore les requêtes d'articles, termes et utilisateurs de l'API REST WordPress avec un tableau de balises méta sociales, de balises HTML SEO et de balisage de Schéma JSON-LD."
+msgid "Enhances the WordPress REST API post, term, and user query results with an array of meta tags and Schema JSON-LD markup."
+msgstr "Améliore les requêtes d'articles, termes et utilisateurs de l'API REST WordPress avec un tableau de balises méta et de balisage de Schéma JSON-LD."
 
 #. Plugin Name of the plugin/theme
 msgid "WPSSO REST API"
@@ -41,8 +41,8 @@ msgid "https://wpsso.com/extend/plugins/wpsso-rest-api/"
 msgstr "https://wpsso.com/extend/plugins/wpsso-rest-api/"
 
 #. Description of the plugin/theme
-msgid "Enhances the WordPress REST API post, term and user queries with an array of social meta tags, SEO HTML tags and Schema JSON-LD markup."
-msgstr "Améliore les requêtes d'articles, termes et utilisateurs de l'API REST WordPress avec un tableau de balises méta sociales, de balises HTML SEO et de balisage de Schéma JSON-LD."
+msgid "Enhances the WordPress REST API post, term, and user query results with an array of meta tags and Schema JSON-LD markup."
+msgstr "Améliore les requêtes d'articles, termes et utilisateurs de l'API REST WordPress avec un tableau de balises méta et de balisage de Schéma JSON-LD."
 
 #. Author of the plugin/theme
 msgid "JS Morisset"
