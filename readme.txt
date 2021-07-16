@@ -13,7 +13,7 @@ Requires At Least: 4.7
 Tested Up To: 5.8
 Stable Tag: 2.8.1
 
-Enhances the WordPress REST API post, term, and user query results with an array of meta tags and Schema JSON-LD markup.
+Extends the WordPress REST API post, term, and user query results with an array of meta tags and Schema JSON-LD markup.
 
 == Description ==
 
