@@ -18,11 +18,11 @@
 
 <p>The WPSSO JSON add-on includes a <code>'head'</code> element in the WordPress REST API query results to provide <code>'html'</code>, <code>'json'</code>, and <code>'parts'</code> arrays:</p>
 
-<p>The <code>'html'</code> array includes the HTML formatted meta tags and Schema JSON-LD (aka LD+JSON) scripts, as they appear in the webpage head section.</p>
-
-<p>The <code>'json'</code> array provides Schema JSON-LD (aka LD+JSON) scripts in their decoded format.</p>
-
-<p>The <code>'parts'</code> array offers HTML meta tag attributes (aka "the parts") as arrays, making it easier to find / use specific meta tag values.</p>
+<ul>
+<li><p>The <code>'html'</code> array includes the HTML formatted meta tags and Schema JSON-LD (aka LD+JSON) scripts, as they appear in the webpage head section.</p></li>
+<li><p>The <code>'json'</code> array provides Schema JSON-LD (aka LD+JSON) scripts in their decoded format.</p></li>
+<li><p>The <code>'parts'</code> array offers HTML meta tag attributes (aka "the parts") as arrays, making it easier to find / use specific meta tag values.</p></li>
+</ul>
 
 <p>There is no add-on settings page for this plugin - simply <em>install</em> and <em>activate</em> the plugin.</p>
 
